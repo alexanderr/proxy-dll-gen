@@ -1,0 +1,4 @@
+.idea
+*.dll
+__pycache__
+build
